@@ -1,2 +1,2 @@
 # first-repo
-bonus lab5 OS TH 2hk2
+bonus lab4 OS TH 2hk2
